@@ -16,4 +16,7 @@
    <FileRef
       location = "group:Example/ios.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Example/macos/macos.xcodeproj">
+   </FileRef>
 </Workspace>
